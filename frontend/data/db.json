@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "John Doe",
+      "userName": "lilrash4real"
+    },
+    {
+      "id": 2,
+      "title": "Rash",
+      "userName": "big_programer"
+    },
+    {
+      "title": "",
+      "username": "",
+      "id": 3
+    },
+    {
+      "title": "",
+      "username": "",
+      "id": 4
+    },
+    {
+      "title": "rash",
+      "username": "juj",
+      "id": 5
+    },
+    {
+      "title": "rash",
+      "username": "juj",
+      "id": 6
+    },
+    {
+      "title": "rash",
+      "username": "juj",
+      "id": 7
+    },
+    {
+      "title": "",
+      "username": "",
+      "id": 8
+    }
+  ]
+}

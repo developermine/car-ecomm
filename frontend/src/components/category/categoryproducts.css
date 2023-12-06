@@ -1,0 +1,34 @@
+/* .category-page-container {
+    min-height: 90vh;
+}
+
+.category-banner-container {
+    height: 250px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+} */
+
+
+.category-page-container {
+    min-height: 90vh;
+}
+
+.category-banner-container {
+    height: 200px;
+    background-color: #182e39;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.name-center {
+    color: #ffff;
+}
+
+.text-center {
+    text-align: center!important;
+    color: beige;
+}

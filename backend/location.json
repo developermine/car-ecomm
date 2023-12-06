@@ -1,0 +1,42 @@
+[
+    {
+        "State": "Abia",
+        "lga": ["Aba North", "Aba South", "Arochukwu", "Bende", "Ikwuano", "Isiala Ngwa North", "Isiala Ngwa South", "Isuikwuato", "Obi Ngwa", "Ohafia"]
+    },
+    {
+        "State": "Adamawa",
+        "lga": ["Demsa", "Fufore", "Ganye", "Girei", "Gombi", "Guyuk", "Hong", "Jada", "Lamurde", "Madagali"]
+    },
+    {
+        "State": "Akwa Ibom",
+        "lga": ["Abak", "Eastern Obolo", "Eket", "Esit Eket", "Essien Udim", "Etim Ekpo", "Etinan", "Ibeno", "Ibesikpo Asutan", "Ibiono Ibom"]
+    },
+    {
+        "State": "Anambra",
+        "lga": ["Aguata", "Awka North", "Awka South", "Anambra East", "Anambra West", "Anaocha", "Dunukofia", "Ekwusigo", "Idemili North", "Idemili South"]
+    },
+    {
+        "State": "Bauchi",
+        "lga": ["Alkaleri", "Bauchi", "Bogoro", "Damban", "Darazo", "Dass", "Ganjuwa", "Giade", "Itas/Gadau", "Jama'are"]
+    },
+    {
+        "State": "Bayelsa",
+        "lga": ["Brass", "Ekeremor", "Kolokuma/Opokuma", "Nembe", "Ogbia", "Sagbama", "Southern Ijaw", "Yenagoa"]
+    },
+    {
+        "State": "Benue",
+        "lga": ["Ado", "Agatu", "Apa", "Buruku", "Gboko", "Guma", "Gwer East", "Gwer West", "Katsina-Ala", "Konshisha"]
+    },
+    {
+        "State": "Borno",
+        "lga": ["Abadam", "Askira/Uba", "Bama", "Bayo", "Biase", "Chibok", "Damboa", "Dikwa", "Guzamala", "Gwoza"]
+    },
+    {
+        "State": "Cross River",
+        "lga": ["Abi", "Akamkpa", "Akpabuyo", "Bakassi", "Bekwarra", "Biase", "Boki", "Calabar Municipal", "Calabar South", "Etung"]
+    },
+    {
+        "State": "Delta",
+        "lga": ["Aniocha North", "Aniocha South", "Bomadi", "Burutu", "Ethiope East", "Ethiope West", "Ika North East", "Ika South", "Isoko North", "Isoko South"]
+    }
+]

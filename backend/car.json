@@ -1,0 +1,63 @@
+[
+    {
+      "make": "Honda",
+      "models": ["Civic", "Accord", "CR-V", "Fit", "HR-V", "Insight", "Odyssey", "Pilot", "Passport", "Ridgeline", "S2000", "Crosstour", "Element", "Prelude", "Amaze", "BR-V", "Jazz", "Mobilio", "City", "Brio"]
+    },
+    {
+      "make": "Toyota",
+      "models": ["Camry", "Corolla", "RAV4", "Highlander", "Tacoma", "Tundra", "Sienna", "Prius", "4Runner", "Avalon", "C-HR", "Yaris", "Land Cruiser", "Venza", "Supra", "Matrix", "Sequoia", "FJ Cruiser", "Echo", "Solara"]
+    },
+    {
+      "make": "Mercedes-Benz",
+      "models": ["C-Class", "E-Class", "S-Class", "GLE", "GLC", "GLA", "A-Class", "CLA", "GLB", "GLS", "G-Class", "SLC", "SL", "M-Class", "R-Class", "B-Class", "GLK-Class", "SLK-Class", "EQC", "AMG GT"]
+    },
+    {
+      "make": "BMW",
+      "models": ["3 Series", "5 Series", "X5", "X3", "7 Series", "X7", "X1", "X6", "4 Series", "X4", "8 Series", "Z4", "i3", "i8", "M2", "M3", "M4", "M5", "M8", "X2"]
+    },
+    {
+      "make": "Ford",
+      "models": ["F-150", "Escape", "Explorer", "Focus", "Mustang", "Fusion", "Ranger", "Edge", "EcoSport", "Bronco", "Expedition", "Taurus", "Flex", "C-MAX", "Transit", "Fiesta", "GT", "Aspire", "Freestyle", "Thunderbird"]
+    },
+    {
+      "make": "Chevrolet",
+      "models": ["Silverado", "Equinox", "Malibu", "Cruze", "Tahoe", "Traverse", "Impala", "Colorado", "Sonic", "Camaro", "Express", "Suburban", "Corvette", "Blazer", "Avalanche", "Captiva", "Volt", "Cavalier", "Spark", "Impala"]
+    },
+    {
+      "make": "Nissan",
+      "models": ["Altima", "Rogue", "Sentra", "Maxima", "Pathfinder", "Murano", "Versa", "Titan", "Frontier", "Juke", "Armada", "Leaf", "370Z", "Rogue Sport", "Kicks", "NV200", "Xterra", "Quest", "Cube", "200SX"]
+    },
+    {
+      "make": "Volkswagen",
+      "models": ["Jetta", "Passat", "Golf", "Tiguan", "Atlas", "Beetle", "Arteon", "Touareg", "Golf GTI", "e-Golf", "CC", "ID.4", "Routan", "Eos", "Phaeton", "Atlas Cross Sport", "Cabrio", "Tiguan Limited", "Golf R", "Golf SportWagen"]
+    },
+    {
+      "make": "Hyundai",
+      "models": ["Elantra", "Tucson", "Santa Fe", "Sonata", "Kona", "Veloster", "Venue", "Palisade", "Accent", "Ioniq", "Nexo", "Equus", "Azera", "Tiburon", "Genesis", "Entourage", "Veracruz", "Scoupe", "Excel", "Stellar"]
+    },
+    {
+      "make": "Kia",
+      "models": ["Sorento", "Sportage", "Optima", "Soul", "Forte", "Telluride", "Rio", "Stinger", "Cadenza", "K900", "Niro", "Sedona", "Borrego", "Amanti", "Rondo", "Spectra", "Sephia", "Quoris", "Mohave", "Pregio"]
+    },
+    {
+      "make": "Audi",
+      "models": ["A3", "A4", "A6", "Q5", "Q7", "A5", "Q3", "A7", "S5", "TT", "Q8", "RS5", "SQ5", "RS7", "S3", "e-tron", "S4", "allroad", "RS3", "RS4"]
+    },
+    {
+      "make": "Lexus",
+      "models": ["RX", "ES", "NX", "IS", "GX", "LS", "UX", "LX", "LC", "RC", "HS", "CT", "SC", "LF", "LFA"]
+    },
+    {
+      "make": "Subaru",
+      "models": ["Outback", "Forester", "Crosstrek", "Legacy", "Impreza", "WRX", "BRZ", "Ascent", "Tribeca", "SVX", "XT", "Justy", "Baja", "Leone", "XT6"]
+    },
+    {
+      "make": "Chrysler",
+      "models": ["300", "Pacifica", "Voyager", "Aspen", "Concorde", "Crossfire", "LHS", "New Yorker", "PT Cruiser", "Saratoga", "Sebring", "TC", "Town & Country", "Windsor", "Viper"]
+    },
+    {
+      "make": "Mazda",
+      "models": ["CX-5", "Mazda3", "Mazda6", "MX-5 Miata", "CX-9", "CX-30", "MX-30", "RX-8", "RX-7", "RX-3", "Tribute", "MPV", "Millenia", "Navajo", "929"]
+    }
+]
+  
